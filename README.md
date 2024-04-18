@@ -9,3 +9,7 @@
 <img src="https://github.com/helloole/test/blob/master/telegram.svg" width="15" height="15"> *tg:* [helloole](https://t.me/helloole)
 
 *email:* [helloole@yandex.ru](mailto:helloole@yandex.ru)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helloole&repo=ML_DS)](https://github.com/helloole/ML_DS)
+
+
